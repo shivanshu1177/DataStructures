@@ -1,4 +1,6 @@
 // ROW/COL Wise sum in 2d array
+
+
 #include <iostream>
 using namespace std;
 
